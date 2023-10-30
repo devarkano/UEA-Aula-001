@@ -1,0 +1,4 @@
+﻿
+using ProgrammingCSharp;
+
+ExercicioNotas.Run();
